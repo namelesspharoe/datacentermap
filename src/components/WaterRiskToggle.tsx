@@ -12,6 +12,7 @@ export function WaterRiskToggle(props: WaterRiskToggleProps) {
     <LayerToggle
       id="water-risk-overlay"
       label="Water risk (Aqueduct)"
+      compactLabel="Water risk"
       {...props}
     />
   )

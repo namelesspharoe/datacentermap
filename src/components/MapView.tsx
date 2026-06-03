@@ -43,6 +43,21 @@ function FlyToCounty({ county }: { county: CountyRecord | null }) {
   return null
 }
 
+/** Keeps tile layout correct when mobile chrome or bottom sheet changes map height */
+function MapInvalidateOnResize() {
+  const map = useMap()
+  useEffect(() => {
+    const container = map.getContainer()
+    const target = container.parentElement ?? container
+    const observer = new ResizeObserver(() => {
+      map.invalidateSize({ animate: false })
+    })
+    observer.observe(target)
+    return () => observer.disconnect()
+  }, [map])
+  return null
+}
+
 interface MapViewProps {
   features: DataCenterFeature[]
   selectedCounty: CountyRecord | null
@@ -104,6 +119,7 @@ export function MapView({
         onHover={onHoverRegion}
         onSelectFeature={onSelectFeature}
       />
+      <MapInvalidateOnResize />
       <FitBounds features={features} />
       <FlyToCounty county={selectedCounty} />
       <MarkerClusterLayer

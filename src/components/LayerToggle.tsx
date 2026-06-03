@@ -1,6 +1,7 @@
 interface LayerToggleProps {
   id: string
   label: string
+  compactLabel?: string
   enabled: boolean
   onChange: (enabled: boolean) => void
   opacity: number
@@ -10,6 +11,7 @@ interface LayerToggleProps {
 export function LayerToggle({
   id,
   label,
+  compactLabel,
   enabled,
   onChange,
   opacity,
@@ -24,7 +26,10 @@ export function LayerToggle({
           checked={enabled}
           onChange={(e) => onChange(e.target.checked)}
         />
-        <span>{label}</span>
+        <span className="layer-toggle-label-full">{label}</span>
+        {compactLabel && (
+          <span className="layer-toggle-label-compact">{compactLabel}</span>
+        )}
       </label>
       {enabled && (
         <label className="layer-opacity-label">

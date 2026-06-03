@@ -12,6 +12,7 @@ export function DroughtToggle(props: DroughtToggleProps) {
     <LayerToggle
       id="drought-overlay"
       label="Drought overlay"
+      compactLabel="Drought"
       {...props}
     />
   )
