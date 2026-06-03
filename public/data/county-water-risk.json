@@ -1,0 +1,2015 @@
+{
+  "generated_at": "2026-06-03T00:12:05.646Z",
+  "indicator": "w_awr_def_tot",
+  "indicator_label": "Overall water risk (default weighting)",
+  "source_note": "County scores use state-level Aqueduct baseline proxy. Add data/raw/aqueduct_baseline_annual.gpkg and run scripts/build_aqueduct_county_risk.py for sub-basin accuracy.",
+  "counties": {
+    "11001": {
+      "fips": "11001",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12001": {
+      "fips": "12001",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12011": {
+      "fips": "12011",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12031": {
+      "fips": "12031",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12057": {
+      "fips": "12057",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12086": {
+      "fips": "12086",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12095": {
+      "fips": "12095",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "12105": {
+      "fips": "12105",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13067": {
+      "fips": "13067",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13097": {
+      "fips": "13097",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13113": {
+      "fips": "13113",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13117": {
+      "fips": "13117",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13121": {
+      "fips": "13121",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13135": {
+      "fips": "13135",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13215": {
+      "fips": "13215",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "13217": {
+      "fips": "13217",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "16001": {
+      "fips": "16001",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "16007": {
+      "fips": "16007",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "16065": {
+      "fips": "16065",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "17019": {
+      "fips": "17019",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "17031": {
+      "fips": "17031",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "17037": {
+      "fips": "17037",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "17043": {
+      "fips": "17043",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "17097": {
+      "fips": "17097",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "17119": {
+      "fips": "17119",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "18059": {
+      "fips": "18059",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "18089": {
+      "fips": "18089",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "18105": {
+      "fips": "18105",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "18157": {
+      "fips": "18157",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "19049": {
+      "fips": "19049",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "19103": {
+      "fips": "19103",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "19153": {
+      "fips": "19153",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "19155": {
+      "fips": "19155",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "19163": {
+      "fips": "19163",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "19181": {
+      "fips": "19181",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "20051": {
+      "fips": "20051",
+      "cat": 3,
+      "score": 3.2,
+      "label": "High",
+      "source": "state"
+    },
+    "20091": {
+      "fips": "20091",
+      "cat": 3,
+      "score": 3.2,
+      "label": "High",
+      "source": "state"
+    },
+    "21071": {
+      "fips": "21071",
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "21107": {
+      "fips": "21107",
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "21111": {
+      "fips": "21111",
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "21145": {
+      "fips": "21145",
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "22033": {
+      "fips": "22033",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "23005": {
+      "fips": "23005",
+      "cat": 0,
+      "score": 0.9,
+      "label": "Low",
+      "source": "state"
+    },
+    "24003": {
+      "fips": "24003",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "24005": {
+      "fips": "24005",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "24021": {
+      "fips": "24021",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "24027": {
+      "fips": "24027",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "24031": {
+      "fips": "24031",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "24033": {
+      "fips": "24033",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "24510": {
+      "fips": "24510",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "25009": {
+      "fips": "25009",
+      "cat": 1,
+      "score": 1.4,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "25017": {
+      "fips": "25017",
+      "cat": 1,
+      "score": 1.4,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "26045": {
+      "fips": "26045",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "26049": {
+      "fips": "26049",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "26099": {
+      "fips": "26099",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "26115": {
+      "fips": "26115",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "26125": {
+      "fips": "26125",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "26163": {
+      "fips": "26163",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "27003": {
+      "fips": "27003",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "27019": {
+      "fips": "27019",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "27037": {
+      "fips": "27037",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "27053": {
+      "fips": "27053",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "27109": {
+      "fips": "27109",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "27123": {
+      "fips": "27123",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "27137": {
+      "fips": "27137",
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "28033": {
+      "fips": "28033",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "28089": {
+      "fips": "28089",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "29019": {
+      "fips": "29019",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "29025": {
+      "fips": "29025",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "29047": {
+      "fips": "29047",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "29095": {
+      "fips": "29095",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "29165": {
+      "fips": "29165",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "29510": {
+      "fips": "29510",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "30017": {
+      "fips": "30017",
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "30039": {
+      "fips": "30039",
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "31019": {
+      "fips": "31019",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "31055": {
+      "fips": "31055",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "31153": {
+      "fips": "31153",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "32003": {
+      "fips": "32003",
+      "cat": 4,
+      "score": 4.3,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "32029": {
+      "fips": "32029",
+      "cat": 4,
+      "score": 4.3,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "32031": {
+      "fips": "32031",
+      "cat": 4,
+      "score": 4.3,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "33015": {
+      "fips": "33015",
+      "cat": 0,
+      "score": 1,
+      "label": "Low",
+      "source": "state"
+    },
+    "33017": {
+      "fips": "33017",
+      "cat": 0,
+      "score": 1,
+      "label": "Low",
+      "source": "state"
+    },
+    "34003": {
+      "fips": "34003",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34013": {
+      "fips": "34013",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34015": {
+      "fips": "34015",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34017": {
+      "fips": "34017",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34021": {
+      "fips": "34021",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34023": {
+      "fips": "34023",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34025": {
+      "fips": "34025",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34031": {
+      "fips": "34031",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34035": {
+      "fips": "34035",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "34039": {
+      "fips": "34039",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "35001": {
+      "fips": "35001",
+      "cat": 4,
+      "score": 4.1,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "35013": {
+      "fips": "35013",
+      "cat": 4,
+      "score": 4.1,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "35049": {
+      "fips": "35049",
+      "cat": 4,
+      "score": 4.1,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "35061": {
+      "fips": "35061",
+      "cat": 4,
+      "score": 4.1,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "36001": {
+      "fips": "36001",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36029": {
+      "fips": "36029",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36047": {
+      "fips": "36047",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36061": {
+      "fips": "36061",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36063": {
+      "fips": "36063",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36067": {
+      "fips": "36067",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36085": {
+      "fips": "36085",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36087": {
+      "fips": "36087",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36103": {
+      "fips": "36103",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "36119": {
+      "fips": "36119",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37027": {
+      "fips": "37027",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37035": {
+      "fips": "37035",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37045": {
+      "fips": "37045",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37063": {
+      "fips": "37063",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37119": {
+      "fips": "37119",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37161": {
+      "fips": "37161",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37179": {
+      "fips": "37179",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "37183": {
+      "fips": "37183",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "38017": {
+      "fips": "38017",
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "38021": {
+      "fips": "38021",
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39017": {
+      "fips": "39017",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39023": {
+      "fips": "39023",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39035": {
+      "fips": "39035",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39041": {
+      "fips": "39041",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39043": {
+      "fips": "39043",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39045": {
+      "fips": "39045",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39049": {
+      "fips": "39049",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39061": {
+      "fips": "39061",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39089": {
+      "fips": "39089",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39099": {
+      "fips": "39099",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39153": {
+      "fips": "39153",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39159": {
+      "fips": "39159",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39165": {
+      "fips": "39165",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "39173": {
+      "fips": "39173",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "40013": {
+      "fips": "40013",
+      "cat": 3,
+      "score": 3.3,
+      "label": "High",
+      "source": "state"
+    },
+    "40101": {
+      "fips": "40101",
+      "cat": 3,
+      "score": 3.3,
+      "label": "High",
+      "source": "state"
+    },
+    "40109": {
+      "fips": "40109",
+      "cat": 3,
+      "score": 3.3,
+      "label": "High",
+      "source": "state"
+    },
+    "40143": {
+      "fips": "40143",
+      "cat": 3,
+      "score": 3.3,
+      "label": "High",
+      "source": "state"
+    },
+    "41005": {
+      "fips": "41005",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41013": {
+      "fips": "41013",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41017": {
+      "fips": "41017",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41033": {
+      "fips": "41033",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41039": {
+      "fips": "41039",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41043": {
+      "fips": "41043",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41047": {
+      "fips": "41047",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41049": {
+      "fips": "41049",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41051": {
+      "fips": "41051",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41059": {
+      "fips": "41059",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41065": {
+      "fips": "41065",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "41067": {
+      "fips": "41067",
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "42003": {
+      "fips": "42003",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "42077": {
+      "fips": "42077",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "42091": {
+      "fips": "42091",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "42101": {
+      "fips": "42101",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "45003": {
+      "fips": "45003",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "45015": {
+      "fips": "45015",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "45051": {
+      "fips": "45051",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "46099": {
+      "fips": "46099",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47037": {
+      "fips": "47037",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47057": {
+      "fips": "47057",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47079": {
+      "fips": "47079",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47125": {
+      "fips": "47125",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47145": {
+      "fips": "47145",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47157": {
+      "fips": "47157",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47165": {
+      "fips": "47165",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "47187": {
+      "fips": "47187",
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "48005": {
+      "fips": "48005",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48029": {
+      "fips": "48029",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48085": {
+      "fips": "48085",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48113": {
+      "fips": "48113",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48121": {
+      "fips": "48121",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48139": {
+      "fips": "48139",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48201": {
+      "fips": "48201",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48221": {
+      "fips": "48221",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48325": {
+      "fips": "48325",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48331": {
+      "fips": "48331",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48339": {
+      "fips": "48339",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48349": {
+      "fips": "48349",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48439": {
+      "fips": "48439",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48453": {
+      "fips": "48453",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48475": {
+      "fips": "48475",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "48485": {
+      "fips": "48485",
+      "cat": 3,
+      "score": 3.6,
+      "label": "High",
+      "source": "state"
+    },
+    "49035": {
+      "fips": "49035",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "49047": {
+      "fips": "49047",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "49049": {
+      "fips": "49049",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "49053": {
+      "fips": "49053",
+      "cat": 3,
+      "score": 3.4,
+      "label": "High",
+      "source": "state"
+    },
+    "51047": {
+      "fips": "51047",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51059": {
+      "fips": "51059",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51061": {
+      "fips": "51061",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51069": {
+      "fips": "51069",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51087": {
+      "fips": "51087",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51107": {
+      "fips": "51107",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51117": {
+      "fips": "51117",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51153": {
+      "fips": "51153",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51660": {
+      "fips": "51660",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51680": {
+      "fips": "51680",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "51683": {
+      "fips": "51683",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53007": {
+      "fips": "53007",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53017": {
+      "fips": "53017",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53025": {
+      "fips": "53025",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53033": {
+      "fips": "53033",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53053": {
+      "fips": "53053",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53061": {
+      "fips": "53061",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53063": {
+      "fips": "53063",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53067": {
+      "fips": "53067",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "53073": {
+      "fips": "53073",
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "54065": {
+      "fips": "54065",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55015": {
+      "fips": "55015",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55021": {
+      "fips": "55021",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55025": {
+      "fips": "55025",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55027": {
+      "fips": "55027",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55033": {
+      "fips": "55033",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55077": {
+      "fips": "55077",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55079": {
+      "fips": "55079",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55101": {
+      "fips": "55101",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55127": {
+      "fips": "55127",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "55133": {
+      "fips": "55133",
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "56005": {
+      "fips": "56005",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "56021": {
+      "fips": "56021",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "72061": {
+      "fips": "72061",
+      "cat": -1,
+      "score": null,
+      "label": "No data",
+      "source": "state"
+    },
+    "72127": {
+      "fips": "72127",
+      "cat": -1,
+      "score": null,
+      "label": "No data",
+      "source": "state"
+    },
+    "06085": {
+      "fips": "06085",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "04013": {
+      "fips": "04013",
+      "cat": 4,
+      "score": 4.2,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "08005": {
+      "fips": "08005",
+      "cat": 3,
+      "score": 3.5,
+      "label": "High",
+      "source": "state"
+    },
+    "06037": {
+      "fips": "06037",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "01089": {
+      "fips": "01089",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "06001": {
+      "fips": "06001",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06067": {
+      "fips": "06067",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06073": {
+      "fips": "06073",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06075": {
+      "fips": "06075",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "08041": {
+      "fips": "08041",
+      "cat": 3,
+      "score": 3.5,
+      "label": "High",
+      "source": "state"
+    },
+    "08031": {
+      "fips": "08031",
+      "cat": 3,
+      "score": 3.5,
+      "label": "High",
+      "source": "state"
+    },
+    "01071": {
+      "fips": "01071",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "06059": {
+      "fips": "06059",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "08035": {
+      "fips": "08035",
+      "cat": 3,
+      "score": 3.5,
+      "label": "High",
+      "source": "state"
+    },
+    "09190": {
+      "fips": "09190",
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "01069": {
+      "fips": "01069",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "01073": {
+      "fips": "01073",
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "05119": {
+      "fips": "05119",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "05145": {
+      "fips": "05145",
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high",
+      "source": "state"
+    },
+    "04003": {
+      "fips": "04003",
+      "cat": 4,
+      "score": 4.2,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "04019": {
+      "fips": "04019",
+      "cat": 4,
+      "score": 4.2,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06013": {
+      "fips": "06013",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06055": {
+      "fips": "06055",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06065": {
+      "fips": "06065",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06079": {
+      "fips": "06079",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06095": {
+      "fips": "06095",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "06099": {
+      "fips": "06099",
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high",
+      "source": "state"
+    },
+    "08001": {
+      "fips": "08001",
+      "cat": 3,
+      "score": 3.5,
+      "label": "High",
+      "source": "state"
+    },
+    "08014": {
+      "fips": "08014",
+      "cat": 3,
+      "score": 3.5,
+      "label": "High",
+      "source": "state"
+    },
+    "09110": {
+      "fips": "09110",
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "09120": {
+      "fips": "09120",
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium",
+      "source": "state"
+    },
+    "09170": {
+      "fips": "09170",
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium",
+      "source": "state"
+    }
+  },
+  "states": {
+    "AL": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    },
+    "AK": {
+      "cat": 0,
+      "score": 0.8,
+      "label": "Low"
+    },
+    "AZ": {
+      "cat": 4,
+      "score": 4.2,
+      "label": "Extremely high"
+    },
+    "AR": {
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high"
+    },
+    "CA": {
+      "cat": 4,
+      "score": 4.5,
+      "label": "Extremely high"
+    },
+    "CO": {
+      "cat": 3,
+      "score": 3.5,
+      "label": "High"
+    },
+    "CT": {
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium"
+    },
+    "DE": {
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high"
+    },
+    "DC": {
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high"
+    },
+    "FL": {
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high"
+    },
+    "GA": {
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high"
+    },
+    "HI": {
+      "cat": 1,
+      "score": 1.2,
+      "label": "Low–medium"
+    },
+    "ID": {
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high"
+    },
+    "IL": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    },
+    "IN": {
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high"
+    },
+    "IA": {
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high"
+    },
+    "KS": {
+      "cat": 3,
+      "score": 3.2,
+      "label": "High"
+    },
+    "KY": {
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high"
+    },
+    "LA": {
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high"
+    },
+    "ME": {
+      "cat": 0,
+      "score": 0.9,
+      "label": "Low"
+    },
+    "MD": {
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high"
+    },
+    "MA": {
+      "cat": 1,
+      "score": 1.4,
+      "label": "Low–medium"
+    },
+    "MI": {
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high"
+    },
+    "MN": {
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium"
+    },
+    "MS": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    },
+    "MO": {
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high"
+    },
+    "MT": {
+      "cat": 1,
+      "score": 1.5,
+      "label": "Low–medium"
+    },
+    "NE": {
+      "cat": 3,
+      "score": 3.4,
+      "label": "High"
+    },
+    "NV": {
+      "cat": 4,
+      "score": 4.3,
+      "label": "Extremely high"
+    },
+    "NH": {
+      "cat": 0,
+      "score": 1,
+      "label": "Low"
+    },
+    "NJ": {
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high"
+    },
+    "NM": {
+      "cat": 4,
+      "score": 4.1,
+      "label": "Extremely high"
+    },
+    "NY": {
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high"
+    },
+    "NC": {
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high"
+    },
+    "ND": {
+      "cat": 2,
+      "score": 2,
+      "label": "Medium–high"
+    },
+    "OH": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    },
+    "OK": {
+      "cat": 3,
+      "score": 3.3,
+      "label": "High"
+    },
+    "OR": {
+      "cat": 2,
+      "score": 2.6,
+      "label": "Medium–high"
+    },
+    "PA": {
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high"
+    },
+    "RI": {
+      "cat": 1,
+      "score": 1.6,
+      "label": "Low–medium"
+    },
+    "SC": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    },
+    "SD": {
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high"
+    },
+    "TN": {
+      "cat": 2,
+      "score": 2.3,
+      "label": "Medium–high"
+    },
+    "TX": {
+      "cat": 3,
+      "score": 3.6,
+      "label": "High"
+    },
+    "UT": {
+      "cat": 3,
+      "score": 3.4,
+      "label": "High"
+    },
+    "VT": {
+      "cat": 0,
+      "score": 0.8,
+      "label": "Low"
+    },
+    "VA": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    },
+    "WA": {
+      "cat": 2,
+      "score": 2.5,
+      "label": "Medium–high"
+    },
+    "WV": {
+      "cat": 2,
+      "score": 2.2,
+      "label": "Medium–high"
+    },
+    "WI": {
+      "cat": 2,
+      "score": 2.1,
+      "label": "Medium–high"
+    },
+    "WY": {
+      "cat": 2,
+      "score": 2.4,
+      "label": "Medium–high"
+    }
+  }
+}

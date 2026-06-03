@@ -1,0 +1,2506 @@
+{
+  "generated_at": "2026-05-28T18:29:30.124104+00:00",
+  "county_count": 250,
+  "counties": [
+    {
+      "fips": "51107",
+      "county": "Loudoun County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 191,
+      "centroid_lat": 39.002316,
+      "centroid_lon": -77.470174,
+      "county_norm": "loudoun"
+    },
+    {
+      "fips": "06085",
+      "county": "Santa Clara County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 74,
+      "centroid_lat": 37.372498,
+      "centroid_lon": -121.952178,
+      "county_norm": "santa clara"
+    },
+    {
+      "fips": "51153",
+      "county": "Prince William County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 60,
+      "centroid_lat": 38.770582,
+      "centroid_lon": -77.550853,
+      "county_norm": "prince william"
+    },
+    {
+      "fips": "04013",
+      "county": "Maricopa County",
+      "state": "Arizona",
+      "state_abb": "AZ",
+      "facility_count": 58,
+      "centroid_lat": 33.403289,
+      "centroid_lon": -111.899793,
+      "county_norm": "maricopa"
+    },
+    {
+      "fips": "53025",
+      "county": "Grant County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 33,
+      "centroid_lat": 47.243177,
+      "centroid_lon": -119.848991,
+      "county_norm": "grant"
+    },
+    {
+      "fips": "39089",
+      "county": "Licking County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 32,
+      "centroid_lat": 40.079496,
+      "centroid_lon": -82.749199,
+      "county_norm": "licking"
+    },
+    {
+      "fips": "41059",
+      "county": "Umatilla County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 31,
+      "centroid_lat": 45.882035,
+      "centroid_lon": -119.293624,
+      "county_norm": "umatilla"
+    },
+    {
+      "fips": "48029",
+      "county": "Bexar County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 31,
+      "centroid_lat": 29.457799,
+      "centroid_lon": -98.668899,
+      "county_norm": "bexar"
+    },
+    {
+      "fips": "39049",
+      "county": "Franklin County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 30,
+      "centroid_lat": 40.061974,
+      "centroid_lon": -83.05704,
+      "county_norm": "franklin"
+    },
+    {
+      "fips": "41049",
+      "county": "Morrow County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 28,
+      "centroid_lat": 45.84358,
+      "centroid_lon": -119.63596,
+      "county_norm": "morrow"
+    },
+    {
+      "fips": "17031",
+      "county": "Cook County",
+      "state": "Illinois",
+      "state_abb": "IL",
+      "facility_count": 26,
+      "centroid_lat": 41.945087,
+      "centroid_lon": -87.847314,
+      "county_norm": "cook"
+    },
+    {
+      "fips": "41067",
+      "county": "Washington County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 26,
+      "centroid_lat": 45.555849,
+      "centroid_lon": -122.923282,
+      "county_norm": "washington"
+    },
+    {
+      "fips": "51059",
+      "county": "Fairfax County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 26,
+      "centroid_lat": 38.91585,
+      "centroid_lon": -77.363568,
+      "county_norm": "fairfax"
+    },
+    {
+      "fips": "19153",
+      "county": "Polk County",
+      "state": "Iowa",
+      "state_abb": "IA",
+      "facility_count": 24,
+      "centroid_lat": 41.580196,
+      "centroid_lon": -93.612254,
+      "county_norm": "polk"
+    },
+    {
+      "fips": "48113",
+      "county": "Dallas County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 23,
+      "centroid_lat": 32.879778,
+      "centroid_lon": -96.804606,
+      "county_norm": "dallas"
+    },
+    {
+      "fips": "32003",
+      "county": "Clark County",
+      "state": "Nevada",
+      "state_abb": "NV",
+      "facility_count": 22,
+      "centroid_lat": 36.101386,
+      "centroid_lon": -115.147056,
+      "county_norm": "clark"
+    },
+    {
+      "fips": "19155",
+      "county": "Pottawattamie County",
+      "state": "Iowa",
+      "state_abb": "IA",
+      "facility_count": 18,
+      "centroid_lat": 41.179835,
+      "centroid_lon": -95.809407,
+      "county_norm": "pottawattamie"
+    },
+    {
+      "fips": "13121",
+      "county": "Fulton County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 16,
+      "centroid_lat": 33.934063,
+      "centroid_lon": -84.322697,
+      "county_norm": "fulton"
+    },
+    {
+      "fips": "56021",
+      "county": "Laramie County",
+      "state": "Wyoming",
+      "state_abb": "WY",
+      "facility_count": 16,
+      "centroid_lat": 41.125678,
+      "centroid_lon": -104.844729,
+      "county_norm": "laramie"
+    },
+    {
+      "fips": "48139",
+      "county": "Ellis County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 15,
+      "centroid_lat": 32.522618,
+      "centroid_lon": -96.850176,
+      "county_norm": "ellis"
+    },
+    {
+      "fips": "53033",
+      "county": "King County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 15,
+      "centroid_lat": 47.55635,
+      "centroid_lon": -122.314327,
+      "county_norm": "king"
+    },
+    {
+      "fips": "17043",
+      "county": "DuPage County",
+      "state": "Illinois",
+      "state_abb": "IL",
+      "facility_count": 14,
+      "centroid_lat": 41.891898,
+      "centroid_lon": -88.063439,
+      "county_norm": "dupage"
+    },
+    {
+      "fips": "34017",
+      "county": "Hudson County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 14,
+      "centroid_lat": 40.779798,
+      "centroid_lon": -74.060645,
+      "county_norm": "hudson"
+    },
+    {
+      "fips": "34035",
+      "county": "Somerset County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 14,
+      "centroid_lat": 40.555645,
+      "centroid_lon": -74.599147,
+      "county_norm": "somerset"
+    },
+    {
+      "fips": "48453",
+      "county": "Travis County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 14,
+      "centroid_lat": 30.239455,
+      "centroid_lon": -97.693025,
+      "county_norm": "travis"
+    },
+    {
+      "fips": "34023",
+      "county": "Middlesex County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 13,
+      "centroid_lat": 40.546107,
+      "centroid_lon": -74.442294,
+      "county_norm": "middlesex"
+    },
+    {
+      "fips": "31153",
+      "county": "Sarpy County",
+      "state": "Nebraska",
+      "state_abb": "NE",
+      "facility_count": 12,
+      "centroid_lat": 41.134196,
+      "centroid_lon": -96.134817,
+      "county_norm": "sarpy"
+    },
+    {
+      "fips": "48085",
+      "county": "Collin County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 12,
+      "centroid_lat": 33.084331,
+      "centroid_lon": -96.691435,
+      "county_norm": "collin"
+    },
+    {
+      "fips": "32031",
+      "county": "Washoe County",
+      "state": "Nevada",
+      "state_abb": "NV",
+      "facility_count": 11,
+      "centroid_lat": 39.568055,
+      "centroid_lon": -119.542339,
+      "county_norm": "washoe"
+    },
+    {
+      "fips": "41013",
+      "county": "Crook County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 11,
+      "centroid_lat": 44.294282,
+      "centroid_lon": -120.881512,
+      "county_norm": "crook"
+    },
+    {
+      "fips": "53017",
+      "county": "Douglas County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 11,
+      "centroid_lat": 47.404818,
+      "centroid_lon": -120.207393,
+      "county_norm": "douglas"
+    },
+    {
+      "fips": "08005",
+      "county": "Arapahoe County",
+      "state": "Colorado",
+      "state_abb": "CO",
+      "facility_count": 9,
+      "centroid_lat": 39.615814,
+      "centroid_lon": -104.836631,
+      "county_norm": "arapahoe"
+    },
+    {
+      "fips": "19049",
+      "county": "Dallas County",
+      "state": "Iowa",
+      "state_abb": "IA",
+      "facility_count": 9,
+      "centroid_lat": 41.545691,
+      "centroid_lon": -93.854001,
+      "county_norm": "dallas"
+    },
+    {
+      "fips": "31055",
+      "county": "Douglas County",
+      "state": "Nebraska",
+      "state_abb": "NE",
+      "facility_count": 9,
+      "centroid_lat": 41.30668,
+      "centroid_lon": -96.043846,
+      "county_norm": "douglas"
+    },
+    {
+      "fips": "45015",
+      "county": "Berkeley County",
+      "state": "South Carolina",
+      "state_abb": "SC",
+      "facility_count": 9,
+      "centroid_lat": 33.06354,
+      "centroid_lon": -80.041352,
+      "county_norm": "berkeley"
+    },
+    {
+      "fips": "06037",
+      "county": "Los Angeles County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 8,
+      "centroid_lat": 34.086037,
+      "centroid_lon": -118.295456,
+      "county_norm": "los angeles"
+    },
+    {
+      "fips": "35001",
+      "county": "Bernalillo County",
+      "state": "New Mexico",
+      "state_abb": "NM",
+      "facility_count": 8,
+      "centroid_lat": 35.068668,
+      "centroid_lon": -106.607879,
+      "county_norm": "bernalillo"
+    },
+    {
+      "fips": "39159",
+      "county": "Union County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 8,
+      "centroid_lat": 40.122522,
+      "centroid_lon": -83.204657,
+      "county_norm": "union"
+    },
+    {
+      "fips": "48439",
+      "county": "Tarrant County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 8,
+      "centroid_lat": 32.868982,
+      "centroid_lon": -97.202662,
+      "county_norm": "tarrant"
+    },
+    {
+      "fips": "13097",
+      "county": "Douglas County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 6,
+      "centroid_lat": 33.743028,
+      "centroid_lon": -84.593461,
+      "county_norm": "douglas"
+    },
+    {
+      "fips": "20091",
+      "county": "Johnson County",
+      "state": "Kansas",
+      "state_abb": "KS",
+      "facility_count": 6,
+      "centroid_lat": 38.9346,
+      "centroid_lon": -94.814373,
+      "county_norm": "johnson"
+    },
+    {
+      "fips": "24510",
+      "county": "Baltimore city",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 6,
+      "centroid_lat": 39.285803,
+      "centroid_lon": -76.6027,
+      "county_norm": "baltimore"
+    },
+    {
+      "fips": "48201",
+      "county": "Harris County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 6,
+      "centroid_lat": 29.882288,
+      "centroid_lon": -95.626746,
+      "county_norm": "harris"
+    },
+    {
+      "fips": "49035",
+      "county": "Salt Lake County",
+      "state": "Utah",
+      "state_abb": "UT",
+      "facility_count": 6,
+      "centroid_lat": 40.659469,
+      "centroid_lon": -111.974096,
+      "county_norm": "salt lake"
+    },
+    {
+      "fips": "49049",
+      "county": "Utah County",
+      "state": "Utah",
+      "state_abb": "UT",
+      "facility_count": 6,
+      "centroid_lat": 40.279094,
+      "centroid_lon": -111.968668,
+      "county_norm": "utah"
+    },
+    {
+      "fips": "51087",
+      "county": "Henrico County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 6,
+      "centroid_lat": 37.512573,
+      "centroid_lon": -77.270073,
+      "county_norm": "henrico"
+    },
+    {
+      "fips": "01089",
+      "county": "Madison County",
+      "state": "Alabama",
+      "state_abb": "AL",
+      "facility_count": 5,
+      "centroid_lat": 34.802584,
+      "centroid_lon": -86.649921,
+      "county_norm": "madison"
+    },
+    {
+      "fips": "06001",
+      "county": "Alameda County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 5,
+      "centroid_lat": 37.601271,
+      "centroid_lon": -121.987413,
+      "county_norm": "alameda"
+    },
+    {
+      "fips": "06067",
+      "county": "Sacramento County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 5,
+      "centroid_lat": 38.636743,
+      "centroid_lon": -121.448711,
+      "county_norm": "sacramento"
+    },
+    {
+      "fips": "06073",
+      "county": "San Diego County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 5,
+      "centroid_lat": 32.869275,
+      "centroid_lon": -117.153592,
+      "county_norm": "san diego"
+    },
+    {
+      "fips": "19181",
+      "county": "Warren County",
+      "state": "Iowa",
+      "state_abb": "IA",
+      "facility_count": 5,
+      "centroid_lat": 41.496834,
+      "centroid_lon": -93.787037,
+      "county_norm": "warren"
+    },
+    {
+      "fips": "29165",
+      "county": "Platte County",
+      "state": "Missouri",
+      "state_abb": "MO",
+      "facility_count": 5,
+      "centroid_lat": 39.294855,
+      "centroid_lon": -94.679441,
+      "county_norm": "platte"
+    },
+    {
+      "fips": "37119",
+      "county": "Mecklenburg County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 5,
+      "centroid_lat": 35.192244,
+      "centroid_lon": -80.894668,
+      "county_norm": "mecklenburg"
+    },
+    {
+      "fips": "35061",
+      "county": "Valencia County",
+      "state": "New Mexico",
+      "state_abb": "NM",
+      "facility_count": 5,
+      "centroid_lat": 34.828446,
+      "centroid_lon": -106.780401,
+      "county_norm": "valencia"
+    },
+    {
+      "fips": "47187",
+      "county": "Williamson County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 5,
+      "centroid_lat": 35.958392,
+      "centroid_lon": -86.820934,
+      "county_norm": "williamson"
+    },
+    {
+      "fips": "06075",
+      "county": "San Francisco County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 4,
+      "centroid_lat": 37.770244,
+      "centroid_lon": -122.393136,
+      "county_norm": "san francisco"
+    },
+    {
+      "fips": "08041",
+      "county": "El Paso County",
+      "state": "Colorado",
+      "state_abb": "CO",
+      "facility_count": 4,
+      "centroid_lat": 38.890867,
+      "centroid_lon": -104.721038,
+      "county_norm": "el paso"
+    },
+    {
+      "fips": "12086",
+      "county": "Miami-Dade County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 4,
+      "centroid_lat": 25.754508,
+      "centroid_lon": -80.291073,
+      "county_norm": "miami-dade"
+    },
+    {
+      "fips": "26163",
+      "county": "Wayne County",
+      "state": "Michigan",
+      "state_abb": "MI",
+      "facility_count": 4,
+      "centroid_lat": 42.275419,
+      "centroid_lon": -83.197275,
+      "county_norm": "wayne"
+    },
+    {
+      "fips": "37183",
+      "county": "Wake County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 4,
+      "centroid_lat": 35.795399,
+      "centroid_lon": -78.650905,
+      "county_norm": "wake"
+    },
+    {
+      "fips": "32029",
+      "county": "Storey County",
+      "state": "Nevada",
+      "state_abb": "NV",
+      "facility_count": 4,
+      "centroid_lat": 39.513389,
+      "centroid_lon": -119.480816,
+      "county_norm": "storey"
+    },
+    {
+      "fips": "36087",
+      "county": "Rockland County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 4,
+      "centroid_lat": 41.040757,
+      "centroid_lon": -73.981187,
+      "county_norm": "rockland"
+    },
+    {
+      "fips": "39035",
+      "county": "Cuyahoga County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 4,
+      "centroid_lat": 41.453739,
+      "centroid_lon": -81.694083,
+      "county_norm": "cuyahoga"
+    },
+    {
+      "fips": "42091",
+      "county": "Montgomery County",
+      "state": "Pennsylvania",
+      "state_abb": "PA",
+      "facility_count": 4,
+      "centroid_lat": 40.122269,
+      "centroid_lon": -75.411716,
+      "county_norm": "montgomery"
+    },
+    {
+      "fips": "47125",
+      "county": "Montgomery County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 4,
+      "centroid_lat": 36.624442,
+      "centroid_lon": -87.260189,
+      "county_norm": "montgomery"
+    },
+    {
+      "fips": "53061",
+      "county": "Snohomish County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 4,
+      "centroid_lat": 47.871919,
+      "centroid_lon": -122.266735,
+      "county_norm": "snohomish"
+    },
+    {
+      "fips": "08031",
+      "county": "Denver County",
+      "state": "Colorado",
+      "state_abb": "CO",
+      "facility_count": 3,
+      "centroid_lat": 39.745591,
+      "centroid_lon": -104.989727,
+      "county_norm": "denver"
+    },
+    {
+      "fips": "12057",
+      "county": "Hillsborough County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 3,
+      "centroid_lat": 28.018896,
+      "centroid_lon": -82.419826,
+      "county_norm": "hillsborough"
+    },
+    {
+      "fips": "13067",
+      "county": "Cobb County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 3,
+      "centroid_lat": 33.914259,
+      "centroid_lon": -84.579087,
+      "county_norm": "cobb"
+    },
+    {
+      "fips": "13135",
+      "county": "Gwinnett County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 3,
+      "centroid_lat": 34.009086,
+      "centroid_lon": -84.10578,
+      "county_norm": "gwinnett"
+    },
+    {
+      "fips": "13217",
+      "county": "Newton County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 3,
+      "centroid_lat": 33.599829,
+      "centroid_lon": -83.69909,
+      "county_norm": "newton"
+    },
+    {
+      "fips": "17037",
+      "county": "DeKalb County",
+      "state": "Illinois",
+      "state_abb": "IL",
+      "facility_count": 3,
+      "centroid_lat": 41.889363,
+      "centroid_lon": -88.726422,
+      "county_norm": "dekalb"
+    },
+    {
+      "fips": "27053",
+      "county": "Hennepin County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 3,
+      "centroid_lat": 45.03549,
+      "centroid_lon": -93.307357,
+      "county_norm": "hennepin"
+    },
+    {
+      "fips": "29510",
+      "county": "St. Louis city",
+      "state": "Missouri",
+      "state_abb": "MO",
+      "facility_count": 3,
+      "centroid_lat": 38.631864,
+      "centroid_lon": -90.216329,
+      "county_norm": "st. louis"
+    },
+    {
+      "fips": "37035",
+      "county": "Catawba County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 3,
+      "centroid_lat": 35.588488,
+      "centroid_lon": -81.262456,
+      "county_norm": "catawba"
+    },
+    {
+      "fips": "37063",
+      "county": "Durham County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 3,
+      "centroid_lat": 35.921953,
+      "centroid_lon": -78.880552,
+      "county_norm": "durham"
+    },
+    {
+      "fips": "37161",
+      "county": "Rutherford County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 3,
+      "centroid_lat": 35.316053,
+      "centroid_lon": -81.824533,
+      "county_norm": "rutherford"
+    },
+    {
+      "fips": "34031",
+      "county": "Passaic County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 3,
+      "centroid_lat": 40.831322,
+      "centroid_lon": -74.130494,
+      "county_norm": "passaic"
+    },
+    {
+      "fips": "36001",
+      "county": "Albany County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 3,
+      "centroid_lat": 42.710142,
+      "centroid_lon": -73.77687,
+      "county_norm": "albany"
+    },
+    {
+      "fips": "36061",
+      "county": "New York County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 3,
+      "centroid_lat": 40.718067,
+      "centroid_lon": -74.00633,
+      "county_norm": "new york"
+    },
+    {
+      "fips": "40143",
+      "county": "Tulsa County",
+      "state": "Oklahoma",
+      "state_abb": "OK",
+      "facility_count": 3,
+      "centroid_lat": 36.147757,
+      "centroid_lon": -95.867488,
+      "county_norm": "tulsa"
+    },
+    {
+      "fips": "47037",
+      "county": "Davidson County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 3,
+      "centroid_lat": 36.129505,
+      "centroid_lon": -86.728543,
+      "county_norm": "davidson"
+    },
+    {
+      "fips": "47165",
+      "county": "Sumner County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 3,
+      "centroid_lat": 36.409755,
+      "centroid_lon": -86.367427,
+      "county_norm": "sumner"
+    },
+    {
+      "fips": "51061",
+      "county": "Fauquier County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 3,
+      "centroid_lat": 38.74096,
+      "centroid_lon": -77.775503,
+      "county_norm": "fauquier"
+    },
+    {
+      "fips": "53007",
+      "county": "Chelan County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 3,
+      "centroid_lat": 47.358452,
+      "centroid_lon": -120.159871,
+      "county_norm": "chelan"
+    },
+    {
+      "fips": "53063",
+      "county": "Spokane County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 3,
+      "centroid_lat": 47.640253,
+      "centroid_lon": -117.351028,
+      "county_norm": "spokane"
+    },
+    {
+      "fips": "55079",
+      "county": "Milwaukee County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 3,
+      "centroid_lat": 42.972165,
+      "centroid_lon": -87.9643,
+      "county_norm": "milwaukee"
+    },
+    {
+      "fips": "01071",
+      "county": "Jackson County",
+      "state": "Alabama",
+      "state_abb": "AL",
+      "facility_count": 2,
+      "centroid_lat": 34.913684,
+      "centroid_lon": -85.746682,
+      "county_norm": "jackson"
+    },
+    {
+      "fips": "06059",
+      "county": "Orange County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 2,
+      "centroid_lat": 33.712142,
+      "centroid_lon": -117.824953,
+      "county_norm": "orange"
+    },
+    {
+      "fips": "08035",
+      "county": "Douglas County",
+      "state": "Colorado",
+      "state_abb": "CO",
+      "facility_count": 2,
+      "centroid_lat": 39.559021,
+      "centroid_lon": -104.835571,
+      "county_norm": "douglas"
+    },
+    {
+      "fips": "09190",
+      "county": "Western Connecticut Planning Region",
+      "state": "Connecticut",
+      "state_abb": "CT",
+      "facility_count": 2,
+      "centroid_lat": 41.102463,
+      "centroid_lon": -73.452683,
+      "county_norm": "western connecticut planning region"
+    },
+    {
+      "fips": "12011",
+      "county": "Broward County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 2,
+      "centroid_lat": 26.187541,
+      "centroid_lon": -80.240106,
+      "county_norm": "broward"
+    },
+    {
+      "fips": "12031",
+      "county": "Duval County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 2,
+      "centroid_lat": 30.288589,
+      "centroid_lon": -81.622074,
+      "county_norm": "duval"
+    },
+    {
+      "fips": "12095",
+      "county": "Orange County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 2,
+      "centroid_lat": 28.597706,
+      "centroid_lon": -81.478992,
+      "county_norm": "orange"
+    },
+    {
+      "fips": "13113",
+      "county": "Fayette County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 2,
+      "centroid_lat": 33.449646,
+      "centroid_lon": -84.523135,
+      "county_norm": "fayette"
+    },
+    {
+      "fips": "16001",
+      "county": "Ada County",
+      "state": "Idaho",
+      "state_abb": "ID",
+      "facility_count": 2,
+      "centroid_lat": 43.463249,
+      "centroid_lon": -116.270156,
+      "county_norm": "ada"
+    },
+    {
+      "fips": "18157",
+      "county": "Tippecanoe County",
+      "state": "Indiana",
+      "state_abb": "IN",
+      "facility_count": 2,
+      "centroid_lat": 40.421822,
+      "centroid_lon": -86.91535,
+      "county_norm": "tippecanoe"
+    },
+    {
+      "fips": "21111",
+      "county": "Jefferson County",
+      "state": "Kentucky",
+      "state_abb": "KY",
+      "facility_count": 2,
+      "centroid_lat": 38.259847,
+      "centroid_lon": -85.620296,
+      "county_norm": "jefferson"
+    },
+    {
+      "fips": "25017",
+      "county": "Middlesex County",
+      "state": "Massachusetts",
+      "state_abb": "MA",
+      "facility_count": 2,
+      "centroid_lat": 42.503484,
+      "centroid_lon": -71.192091,
+      "county_norm": "middlesex"
+    },
+    {
+      "fips": "24003",
+      "county": "Anne Arundel County",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 2,
+      "centroid_lat": 39.176847,
+      "centroid_lon": -76.644638,
+      "county_norm": "anne arundel"
+    },
+    {
+      "fips": "23005",
+      "county": "Cumberland County",
+      "state": "Maine",
+      "state_abb": "ME",
+      "facility_count": 2,
+      "centroid_lat": 43.776455,
+      "centroid_lon": -70.092265,
+      "county_norm": "cumberland"
+    },
+    {
+      "fips": "26045",
+      "county": "Eaton County",
+      "state": "Michigan",
+      "state_abb": "MI",
+      "facility_count": 2,
+      "centroid_lat": 42.696671,
+      "centroid_lon": -84.654542,
+      "county_norm": "eaton"
+    },
+    {
+      "fips": "27037",
+      "county": "Dakota County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 2,
+      "centroid_lat": 44.734634,
+      "centroid_lon": -93.063371,
+      "county_norm": "dakota"
+    },
+    {
+      "fips": "29047",
+      "county": "Clay County",
+      "state": "Missouri",
+      "state_abb": "MO",
+      "facility_count": 2,
+      "centroid_lat": 39.322644,
+      "centroid_lon": -94.596494,
+      "county_norm": "clay"
+    },
+    {
+      "fips": "29095",
+      "county": "Jackson County",
+      "state": "Missouri",
+      "state_abb": "MO",
+      "facility_count": 2,
+      "centroid_lat": 39.101044,
+      "centroid_lon": -94.579983,
+      "county_norm": "jackson"
+    },
+    {
+      "fips": "33015",
+      "county": "Rockingham County",
+      "state": "New Hampshire",
+      "state_abb": "NH",
+      "facility_count": 2,
+      "centroid_lat": 43.029105,
+      "centroid_lon": -70.879318,
+      "county_norm": "rockingham"
+    },
+    {
+      "fips": "34013",
+      "county": "Essex County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 2,
+      "centroid_lat": 40.77909,
+      "centroid_lon": -74.154055,
+      "county_norm": "essex"
+    },
+    {
+      "fips": "36029",
+      "county": "Erie County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 2,
+      "centroid_lat": 43.017593,
+      "centroid_lon": -78.780795,
+      "county_norm": "erie"
+    },
+    {
+      "fips": "36063",
+      "county": "Niagara County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 2,
+      "centroid_lat": 43.078447,
+      "centroid_lon": -78.987762,
+      "county_norm": "niagara"
+    },
+    {
+      "fips": "36085",
+      "county": "Richmond County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 2,
+      "centroid_lat": 40.607183,
+      "centroid_lon": -74.174033,
+      "county_norm": "richmond"
+    },
+    {
+      "fips": "39017",
+      "county": "Butler County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 2,
+      "centroid_lat": 39.350585,
+      "centroid_lon": -84.507798,
+      "county_norm": "butler"
+    },
+    {
+      "fips": "39061",
+      "county": "Hamilton County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 2,
+      "centroid_lat": 39.198372,
+      "centroid_lon": -84.465005,
+      "county_norm": "hamilton"
+    },
+    {
+      "fips": "39165",
+      "county": "Warren County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 2,
+      "centroid_lat": 39.346457,
+      "centroid_lon": -84.266728,
+      "county_norm": "warren"
+    },
+    {
+      "fips": "41047",
+      "county": "Marion County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 2,
+      "centroid_lat": 44.932289,
+      "centroid_lon": -123.017773,
+      "county_norm": "marion"
+    },
+    {
+      "fips": "41065",
+      "county": "Wasco County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 2,
+      "centroid_lat": 45.635288,
+      "centroid_lon": -121.201853,
+      "county_norm": "wasco"
+    },
+    {
+      "fips": "42003",
+      "county": "Allegheny County",
+      "state": "Pennsylvania",
+      "state_abb": "PA",
+      "facility_count": 2,
+      "centroid_lat": 40.439373,
+      "centroid_lon": -80.116325,
+      "county_norm": "allegheny"
+    },
+    {
+      "fips": "42077",
+      "county": "Lehigh County",
+      "state": "Pennsylvania",
+      "state_abb": "PA",
+      "facility_count": 2,
+      "centroid_lat": 40.589966,
+      "centroid_lon": -75.555943,
+      "county_norm": "lehigh"
+    },
+    {
+      "fips": "46099",
+      "county": "Minnehaha County",
+      "state": "South Dakota",
+      "state_abb": "SD",
+      "facility_count": 2,
+      "centroid_lat": 43.603443,
+      "centroid_lon": -96.801951,
+      "county_norm": "minnehaha"
+    },
+    {
+      "fips": "47157",
+      "county": "Shelby County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 2,
+      "centroid_lat": 35.028972,
+      "centroid_lon": -90.09566,
+      "county_norm": "shelby"
+    },
+    {
+      "fips": "48121",
+      "county": "Denton County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 2,
+      "centroid_lat": 33.005442,
+      "centroid_lon": -97.245723,
+      "county_norm": "denton"
+    },
+    {
+      "fips": "48339",
+      "county": "Montgomery County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 2,
+      "centroid_lat": 30.17796,
+      "centroid_lon": -95.486286,
+      "county_norm": "montgomery"
+    },
+    {
+      "fips": "53053",
+      "county": "Pierce County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 2,
+      "centroid_lat": 47.15985,
+      "centroid_lon": -122.279584,
+      "county_norm": "pierce"
+    },
+    {
+      "fips": "55025",
+      "county": "Dane County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 2,
+      "centroid_lat": 43.067502,
+      "centroid_lon": -89.414508,
+      "county_norm": "dane"
+    },
+    {
+      "fips": "01069",
+      "county": "Houston County",
+      "state": "Alabama",
+      "state_abb": "AL",
+      "facility_count": 1,
+      "centroid_lat": 31.231904,
+      "centroid_lon": -85.455849,
+      "county_norm": "houston"
+    },
+    {
+      "fips": "01073",
+      "county": "Jefferson County",
+      "state": "Alabama",
+      "state_abb": "AL",
+      "facility_count": 1,
+      "centroid_lat": 33.404716,
+      "centroid_lon": -86.911457,
+      "county_norm": "jefferson"
+    },
+    {
+      "fips": "05119",
+      "county": "Pulaski County",
+      "state": "Arkansas",
+      "state_abb": "AR",
+      "facility_count": 1,
+      "centroid_lat": 34.756236,
+      "centroid_lon": -92.444724,
+      "county_norm": "pulaski"
+    },
+    {
+      "fips": "05145",
+      "county": "White County",
+      "state": "Arkansas",
+      "state_abb": "AR",
+      "facility_count": 1,
+      "centroid_lat": 35.249216,
+      "centroid_lon": -91.740906,
+      "county_norm": "white"
+    },
+    {
+      "fips": "04003",
+      "county": "Cochise County",
+      "state": "Arizona",
+      "state_abb": "AZ",
+      "facility_count": 1,
+      "centroid_lat": 31.972675,
+      "centroid_lon": -110.304752,
+      "county_norm": "cochise"
+    },
+    {
+      "fips": "04019",
+      "county": "Pima County",
+      "state": "Arizona",
+      "state_abb": "AZ",
+      "facility_count": 1,
+      "centroid_lat": 32.092706,
+      "centroid_lon": -110.787424,
+      "county_norm": "pima"
+    },
+    {
+      "fips": "06013",
+      "county": "Contra Costa County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 1,
+      "centroid_lat": 37.971081,
+      "centroid_lon": -122.043738,
+      "county_norm": "contra costa"
+    },
+    {
+      "fips": "06055",
+      "county": "Napa County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 1,
+      "centroid_lat": 38.254085,
+      "centroid_lon": -122.273098,
+      "county_norm": "napa"
+    },
+    {
+      "fips": "06065",
+      "county": "Riverside County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 1,
+      "centroid_lat": 33.91029,
+      "centroid_lon": -117.503021,
+      "county_norm": "riverside"
+    },
+    {
+      "fips": "06079",
+      "county": "San Luis Obispo County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 1,
+      "centroid_lat": 35.255316,
+      "centroid_lon": -120.641513,
+      "county_norm": "san luis obispo"
+    },
+    {
+      "fips": "06095",
+      "county": "Solano County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 1,
+      "centroid_lat": 38.246259,
+      "centroid_lon": -122.06721,
+      "county_norm": "solano"
+    },
+    {
+      "fips": "06099",
+      "county": "Stanislaus County",
+      "state": "California",
+      "state_abb": "CA",
+      "facility_count": 1,
+      "centroid_lat": 37.665147,
+      "centroid_lon": -121.040037,
+      "county_norm": "stanislaus"
+    },
+    {
+      "fips": "08001",
+      "county": "Adams County",
+      "state": "Colorado",
+      "state_abb": "CO",
+      "facility_count": 1,
+      "centroid_lat": 39.922419,
+      "centroid_lon": -104.983245,
+      "county_norm": "adams"
+    },
+    {
+      "fips": "08014",
+      "county": "Broomfield County",
+      "state": "Colorado",
+      "state_abb": "CO",
+      "facility_count": 1,
+      "centroid_lat": 39.989087,
+      "centroid_lon": -105.020703,
+      "county_norm": "broomfield"
+    },
+    {
+      "fips": "09110",
+      "county": "Capitol Planning Region",
+      "state": "Connecticut",
+      "state_abb": "CT",
+      "facility_count": 1,
+      "centroid_lat": 41.707078,
+      "centroid_lon": -72.589864,
+      "county_norm": "capitol planning region"
+    },
+    {
+      "fips": "09120",
+      "county": "Greater Bridgeport Planning Region",
+      "state": "Connecticut",
+      "state_abb": "CT",
+      "facility_count": 1,
+      "centroid_lat": 41.240846,
+      "centroid_lon": -73.147299,
+      "county_norm": "greater bridgeport planning region"
+    },
+    {
+      "fips": "09170",
+      "county": "South Central Connecticut Planning Region",
+      "state": "Connecticut",
+      "state_abb": "CT",
+      "facility_count": 1,
+      "centroid_lat": 41.478807,
+      "centroid_lon": -72.801006,
+      "county_norm": "south central connecticut planning region"
+    },
+    {
+      "fips": "11001",
+      "county": "District of Columbia",
+      "state": "District of Columbia",
+      "state_abb": "DC",
+      "facility_count": 1,
+      "centroid_lat": 38.902888,
+      "centroid_lon": -77.029149,
+      "county_norm": "district of columbia"
+    },
+    {
+      "fips": "12001",
+      "county": "Alachua County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 1,
+      "centroid_lat": 29.672591,
+      "centroid_lon": -82.29993,
+      "county_norm": "alachua"
+    },
+    {
+      "fips": "12105",
+      "county": "Polk County",
+      "state": "Florida",
+      "state_abb": "FL",
+      "facility_count": 1,
+      "centroid_lat": 28.294077,
+      "centroid_lon": -81.834848,
+      "county_norm": "polk"
+    },
+    {
+      "fips": "13117",
+      "county": "Forsyth County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 1,
+      "centroid_lat": 34.103383,
+      "centroid_lon": -84.214974,
+      "county_norm": "forsyth"
+    },
+    {
+      "fips": "13215",
+      "county": "Muscogee County",
+      "state": "Georgia",
+      "state_abb": "GA",
+      "facility_count": 1,
+      "centroid_lat": 32.498267,
+      "centroid_lon": -84.883571,
+      "county_norm": "muscogee"
+    },
+    {
+      "fips": "19103",
+      "county": "Johnson County",
+      "state": "Iowa",
+      "state_abb": "IA",
+      "facility_count": 1,
+      "centroid_lat": 41.703998,
+      "centroid_lon": -91.587078,
+      "county_norm": "johnson"
+    },
+    {
+      "fips": "19163",
+      "county": "Scott County",
+      "state": "Iowa",
+      "state_abb": "IA",
+      "facility_count": 1,
+      "centroid_lat": 41.550269,
+      "centroid_lon": -90.482409,
+      "county_norm": "scott"
+    },
+    {
+      "fips": "16007",
+      "county": "Bear Lake County",
+      "state": "Idaho",
+      "state_abb": "ID",
+      "facility_count": 1,
+      "centroid_lat": 42.317296,
+      "centroid_lon": -111.304245,
+      "county_norm": "bear lake"
+    },
+    {
+      "fips": "16065",
+      "county": "Madison County",
+      "state": "Idaho",
+      "state_abb": "ID",
+      "facility_count": 1,
+      "centroid_lat": 43.825243,
+      "centroid_lon": -111.782093,
+      "county_norm": "madison"
+    },
+    {
+      "fips": "17019",
+      "county": "Champaign County",
+      "state": "Illinois",
+      "state_abb": "IL",
+      "facility_count": 1,
+      "centroid_lat": 40.095259,
+      "centroid_lon": -88.242031,
+      "county_norm": "champaign"
+    },
+    {
+      "fips": "17097",
+      "county": "Lake County",
+      "state": "Illinois",
+      "state_abb": "IL",
+      "facility_count": 1,
+      "centroid_lat": 42.216757,
+      "centroid_lon": -87.952847,
+      "county_norm": "lake"
+    },
+    {
+      "fips": "17119",
+      "county": "Madison County",
+      "state": "Illinois",
+      "state_abb": "IL",
+      "facility_count": 1,
+      "centroid_lat": 38.81056,
+      "centroid_lon": -89.948703,
+      "county_norm": "madison"
+    },
+    {
+      "fips": "18059",
+      "county": "Hancock County",
+      "state": "Indiana",
+      "state_abb": "IN",
+      "facility_count": 1,
+      "centroid_lat": 39.717184,
+      "centroid_lon": -85.94133,
+      "county_norm": "hancock"
+    },
+    {
+      "fips": "18089",
+      "county": "Lake County",
+      "state": "Indiana",
+      "state_abb": "IN",
+      "facility_count": 1,
+      "centroid_lat": 41.707418,
+      "centroid_lon": -87.520193,
+      "county_norm": "lake"
+    },
+    {
+      "fips": "18105",
+      "county": "Monroe County",
+      "state": "Indiana",
+      "state_abb": "IN",
+      "facility_count": 1,
+      "centroid_lat": 39.174419,
+      "centroid_lon": -86.500703,
+      "county_norm": "monroe"
+    },
+    {
+      "fips": "20051",
+      "county": "Ellis County",
+      "state": "Kansas",
+      "state_abb": "KS",
+      "facility_count": 1,
+      "centroid_lat": 38.872132,
+      "centroid_lon": -99.300187,
+      "county_norm": "ellis"
+    },
+    {
+      "fips": "21071",
+      "county": "Floyd County",
+      "state": "Kentucky",
+      "state_abb": "KY",
+      "facility_count": 1,
+      "centroid_lat": 37.600177,
+      "centroid_lon": -82.678763,
+      "county_norm": "floyd"
+    },
+    {
+      "fips": "21107",
+      "county": "Hopkins County",
+      "state": "Kentucky",
+      "state_abb": "KY",
+      "facility_count": 1,
+      "centroid_lat": 37.362991,
+      "centroid_lon": -87.547121,
+      "county_norm": "hopkins"
+    },
+    {
+      "fips": "21145",
+      "county": "McCracken County",
+      "state": "Kentucky",
+      "state_abb": "KY",
+      "facility_count": 1,
+      "centroid_lat": 37.089239,
+      "centroid_lon": -88.703058,
+      "county_norm": "mccracken"
+    },
+    {
+      "fips": "22033",
+      "county": "East Baton Rouge Parish",
+      "state": "Louisiana",
+      "state_abb": "LA",
+      "facility_count": 1,
+      "centroid_lat": 30.407446,
+      "centroid_lon": -91.172545,
+      "county_norm": "east baton rouge"
+    },
+    {
+      "fips": "25009",
+      "county": "Essex County",
+      "state": "Massachusetts",
+      "state_abb": "MA",
+      "facility_count": 1,
+      "centroid_lat": 42.685709,
+      "centroid_lon": -71.208599,
+      "county_norm": "essex"
+    },
+    {
+      "fips": "24005",
+      "county": "Baltimore County",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 1,
+      "centroid_lat": 39.427318,
+      "centroid_lon": -76.81155,
+      "county_norm": "baltimore"
+    },
+    {
+      "fips": "24021",
+      "county": "Frederick County",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 1,
+      "centroid_lat": 39.377776,
+      "centroid_lon": -77.411519,
+      "county_norm": "frederick"
+    },
+    {
+      "fips": "24027",
+      "county": "Howard County",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 1,
+      "centroid_lat": 39.133685,
+      "centroid_lon": -76.851407,
+      "county_norm": "howard"
+    },
+    {
+      "fips": "24031",
+      "county": "Montgomery County",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 1,
+      "centroid_lat": 39.058563,
+      "centroid_lon": -76.964322,
+      "county_norm": "montgomery"
+    },
+    {
+      "fips": "24033",
+      "county": "Prince George's County",
+      "state": "Maryland",
+      "state_abb": "MD",
+      "facility_count": 1,
+      "centroid_lat": 39.052823,
+      "centroid_lon": -76.925908,
+      "county_norm": "prince george's"
+    },
+    {
+      "fips": "26049",
+      "county": "Genesee County",
+      "state": "Michigan",
+      "state_abb": "MI",
+      "facility_count": 1,
+      "centroid_lat": 42.968713,
+      "centroid_lon": -83.779602,
+      "county_norm": "genesee"
+    },
+    {
+      "fips": "26099",
+      "county": "Macomb County",
+      "state": "Michigan",
+      "state_abb": "MI",
+      "facility_count": 1,
+      "centroid_lat": 42.627942,
+      "centroid_lon": -82.988394,
+      "county_norm": "macomb"
+    },
+    {
+      "fips": "26115",
+      "county": "Monroe County",
+      "state": "Michigan",
+      "state_abb": "MI",
+      "facility_count": 1,
+      "centroid_lat": 41.807282,
+      "centroid_lon": -83.627629,
+      "county_norm": "monroe"
+    },
+    {
+      "fips": "26125",
+      "county": "Oakland County",
+      "state": "Michigan",
+      "state_abb": "MI",
+      "facility_count": 1,
+      "centroid_lat": 42.447697,
+      "centroid_lon": -83.262667,
+      "county_norm": "oakland"
+    },
+    {
+      "fips": "27003",
+      "county": "Anoka County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 1,
+      "centroid_lat": 45.132197,
+      "centroid_lon": -93.095622,
+      "county_norm": "anoka"
+    },
+    {
+      "fips": "27019",
+      "county": "Carver County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 1,
+      "centroid_lat": 44.851593,
+      "centroid_lon": -93.598831,
+      "county_norm": "carver"
+    },
+    {
+      "fips": "27109",
+      "county": "Olmsted County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 1,
+      "centroid_lat": 44.070816,
+      "centroid_lon": -92.522121,
+      "county_norm": "olmsted"
+    },
+    {
+      "fips": "27123",
+      "county": "Ramsey County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 1,
+      "centroid_lat": 44.972253,
+      "centroid_lon": -93.14746,
+      "county_norm": "ramsey"
+    },
+    {
+      "fips": "27137",
+      "county": "St. Louis County",
+      "state": "Minnesota",
+      "state_abb": "MN",
+      "facility_count": 1,
+      "centroid_lat": 46.827467,
+      "centroid_lon": -92.130431,
+      "county_norm": "st. louis"
+    },
+    {
+      "fips": "29019",
+      "county": "Boone County",
+      "state": "Missouri",
+      "state_abb": "MO",
+      "facility_count": 1,
+      "centroid_lat": 38.923512,
+      "centroid_lon": -92.288624,
+      "county_norm": "boone"
+    },
+    {
+      "fips": "29025",
+      "county": "Caldwell County",
+      "state": "Missouri",
+      "state_abb": "MO",
+      "facility_count": 1,
+      "centroid_lat": 39.744048,
+      "centroid_lon": -93.997376,
+      "county_norm": "caldwell"
+    },
+    {
+      "fips": "28033",
+      "county": "DeSoto County",
+      "state": "Mississippi",
+      "state_abb": "MS",
+      "facility_count": 1,
+      "centroid_lat": 34.993488,
+      "centroid_lon": -90.03417,
+      "county_norm": "desoto"
+    },
+    {
+      "fips": "28089",
+      "county": "Madison County",
+      "state": "Mississippi",
+      "state_abb": "MS",
+      "facility_count": 1,
+      "centroid_lat": 32.597993,
+      "centroid_lon": -90.091852,
+      "county_norm": "madison"
+    },
+    {
+      "fips": "30017",
+      "county": "Custer County",
+      "state": "Montana",
+      "state_abb": "MT",
+      "facility_count": 1,
+      "centroid_lat": 46.406897,
+      "centroid_lon": -105.820645,
+      "county_norm": "custer"
+    },
+    {
+      "fips": "30039",
+      "county": "Granite County",
+      "state": "Montana",
+      "state_abb": "MT",
+      "facility_count": 1,
+      "centroid_lat": 46.332132,
+      "centroid_lon": -113.292672,
+      "county_norm": "granite"
+    },
+    {
+      "fips": "37027",
+      "county": "Caldwell County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 1,
+      "centroid_lat": 35.894738,
+      "centroid_lon": -81.546515,
+      "county_norm": "caldwell"
+    },
+    {
+      "fips": "37045",
+      "county": "Cleveland County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 1,
+      "centroid_lat": 35.25045,
+      "centroid_lon": -81.395009,
+      "county_norm": "cleveland"
+    },
+    {
+      "fips": "37179",
+      "county": "Union County",
+      "state": "North Carolina",
+      "state_abb": "NC",
+      "facility_count": 1,
+      "centroid_lat": 35.179383,
+      "centroid_lon": -80.570175,
+      "county_norm": "union"
+    },
+    {
+      "fips": "38017",
+      "county": "Cass County",
+      "state": "North Dakota",
+      "state_abb": "ND",
+      "facility_count": 1,
+      "centroid_lat": 46.815097,
+      "centroid_lon": -96.844326,
+      "county_norm": "cass"
+    },
+    {
+      "fips": "38021",
+      "county": "Dickey County",
+      "state": "North Dakota",
+      "state_abb": "ND",
+      "facility_count": 1,
+      "centroid_lat": 46.013549,
+      "centroid_lon": -98.572441,
+      "county_norm": "dickey"
+    },
+    {
+      "fips": "31019",
+      "county": "Buffalo County",
+      "state": "Nebraska",
+      "state_abb": "NE",
+      "facility_count": 1,
+      "centroid_lat": 40.725923,
+      "centroid_lon": -99.038329,
+      "county_norm": "buffalo"
+    },
+    {
+      "fips": "33017",
+      "county": "Strafford County",
+      "state": "New Hampshire",
+      "state_abb": "NH",
+      "facility_count": 1,
+      "centroid_lat": 43.143619,
+      "centroid_lon": -70.952473,
+      "county_norm": "strafford"
+    },
+    {
+      "fips": "34003",
+      "county": "Bergen County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 1,
+      "centroid_lat": 41.078302,
+      "centroid_lon": -74.152918,
+      "county_norm": "bergen"
+    },
+    {
+      "fips": "34015",
+      "county": "Gloucester County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 1,
+      "centroid_lat": 39.83093,
+      "centroid_lon": -75.195323,
+      "county_norm": "gloucester"
+    },
+    {
+      "fips": "34021",
+      "county": "Mercer County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 1,
+      "centroid_lat": 40.315558,
+      "centroid_lon": -74.668851,
+      "county_norm": "mercer"
+    },
+    {
+      "fips": "34025",
+      "county": "Monmouth County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 1,
+      "centroid_lat": 40.157044,
+      "centroid_lon": -74.101582,
+      "county_norm": "monmouth"
+    },
+    {
+      "fips": "34039",
+      "county": "Union County",
+      "state": "New Jersey",
+      "state_abb": "NJ",
+      "facility_count": 1,
+      "centroid_lat": 40.643753,
+      "centroid_lon": -74.285481,
+      "county_norm": "union"
+    },
+    {
+      "fips": "35013",
+      "county": "Do\u00f1a Ana County",
+      "state": "New Mexico",
+      "state_abb": "NM",
+      "facility_count": 1,
+      "centroid_lat": 32.309655,
+      "centroid_lon": -106.729171,
+      "county_norm": "do\u00f1a ana"
+    },
+    {
+      "fips": "35049",
+      "county": "Santa Fe County",
+      "state": "New Mexico",
+      "state_abb": "NM",
+      "facility_count": 1,
+      "centroid_lat": 35.672444,
+      "centroid_lon": -105.956575,
+      "county_norm": "santa fe"
+    },
+    {
+      "fips": "36047",
+      "county": "Kings County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 1,
+      "centroid_lat": 40.657696,
+      "centroid_lon": -74.004816,
+      "county_norm": "kings"
+    },
+    {
+      "fips": "36067",
+      "county": "Onondaga County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 1,
+      "centroid_lat": 43.012076,
+      "centroid_lon": -76.115925,
+      "county_norm": "onondaga"
+    },
+    {
+      "fips": "36103",
+      "county": "Suffolk County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 1,
+      "centroid_lat": 40.84366,
+      "centroid_lon": -72.883345,
+      "county_norm": "suffolk"
+    },
+    {
+      "fips": "36119",
+      "county": "Westchester County",
+      "state": "New York",
+      "state_abb": "NY",
+      "facility_count": 1,
+      "centroid_lat": 40.95127,
+      "centroid_lon": -73.897901,
+      "county_norm": "westchester"
+    },
+    {
+      "fips": "39023",
+      "county": "Clark County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 39.91278,
+      "centroid_lon": -83.723761,
+      "county_norm": "clark"
+    },
+    {
+      "fips": "39041",
+      "county": "Delaware County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 40.224524,
+      "centroid_lon": -83.04586,
+      "county_norm": "delaware"
+    },
+    {
+      "fips": "39043",
+      "county": "Erie County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 41.43243,
+      "centroid_lon": -82.719028,
+      "county_norm": "erie"
+    },
+    {
+      "fips": "39045",
+      "county": "Fairfield County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 39.72401,
+      "centroid_lon": -82.691127,
+      "county_norm": "fairfield"
+    },
+    {
+      "fips": "39099",
+      "county": "Mahoning County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 41.04106,
+      "centroid_lon": -80.63309,
+      "county_norm": "mahoning"
+    },
+    {
+      "fips": "39153",
+      "county": "Summit County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 41.057431,
+      "centroid_lon": -81.521972,
+      "county_norm": "summit"
+    },
+    {
+      "fips": "39173",
+      "county": "Wood County",
+      "state": "Ohio",
+      "state_abb": "OH",
+      "facility_count": 1,
+      "centroid_lat": 41.465298,
+      "centroid_lon": -83.638355,
+      "county_norm": "wood"
+    },
+    {
+      "fips": "40013",
+      "county": "Bryan County",
+      "state": "Oklahoma",
+      "state_abb": "OK",
+      "facility_count": 1,
+      "centroid_lat": 33.971721,
+      "centroid_lon": -96.402855,
+      "county_norm": "bryan"
+    },
+    {
+      "fips": "40101",
+      "county": "Muskogee County",
+      "state": "Oklahoma",
+      "state_abb": "OK",
+      "facility_count": 1,
+      "centroid_lat": 35.568135,
+      "centroid_lon": -95.512417,
+      "county_norm": "muskogee"
+    },
+    {
+      "fips": "40109",
+      "county": "Oklahoma County",
+      "state": "Oklahoma",
+      "state_abb": "OK",
+      "facility_count": 1,
+      "centroid_lat": 35.467205,
+      "centroid_lon": -97.649745,
+      "county_norm": "oklahoma"
+    },
+    {
+      "fips": "41005",
+      "county": "Clackamas County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 1,
+      "centroid_lat": 45.318731,
+      "centroid_lon": -122.765874,
+      "county_norm": "clackamas"
+    },
+    {
+      "fips": "41017",
+      "county": "Deschutes County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 1,
+      "centroid_lat": 44.047407,
+      "centroid_lon": -121.32855,
+      "county_norm": "deschutes"
+    },
+    {
+      "fips": "41033",
+      "county": "Josephine County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 1,
+      "centroid_lat": 42.437882,
+      "centroid_lon": -123.32863,
+      "county_norm": "josephine"
+    },
+    {
+      "fips": "41039",
+      "county": "Lane County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 1,
+      "centroid_lat": 43.797155,
+      "centroid_lon": -123.055946,
+      "county_norm": "lane"
+    },
+    {
+      "fips": "41043",
+      "county": "Linn County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 1,
+      "centroid_lat": 44.775219,
+      "centroid_lon": -122.615931,
+      "county_norm": "linn"
+    },
+    {
+      "fips": "41051",
+      "county": "Multnomah County",
+      "state": "Oregon",
+      "state_abb": "OR",
+      "facility_count": 1,
+      "centroid_lat": 45.521544,
+      "centroid_lon": -122.680704,
+      "county_norm": "multnomah"
+    },
+    {
+      "fips": "42101",
+      "county": "Philadelphia County",
+      "state": "Pennsylvania",
+      "state_abb": "PA",
+      "facility_count": 1,
+      "centroid_lat": 39.95981,
+      "centroid_lon": -75.160832,
+      "county_norm": "philadelphia"
+    },
+    {
+      "fips": "72061",
+      "county": "Guaynabo Municipio",
+      "state": "Puerto Rico",
+      "state_abb": "PR",
+      "facility_count": 1,
+      "centroid_lat": 18.417436,
+      "centroid_lon": -66.10899,
+      "county_norm": "guaynabo municipio"
+    },
+    {
+      "fips": "72127",
+      "county": "San Juan Municipio",
+      "state": "Puerto Rico",
+      "state_abb": "PR",
+      "facility_count": 1,
+      "centroid_lat": 18.446827,
+      "centroid_lon": -66.051687,
+      "county_norm": "san juan municipio"
+    },
+    {
+      "fips": "45003",
+      "county": "Aiken County",
+      "state": "South Carolina",
+      "state_abb": "SC",
+      "facility_count": 1,
+      "centroid_lat": 33.642273,
+      "centroid_lon": -81.842627,
+      "county_norm": "aiken"
+    },
+    {
+      "fips": "45051",
+      "county": "Horry County",
+      "state": "South Carolina",
+      "state_abb": "SC",
+      "facility_count": 1,
+      "centroid_lat": 33.674583,
+      "centroid_lon": -78.943696,
+      "county_norm": "horry"
+    },
+    {
+      "fips": "47057",
+      "county": "Grainger County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 1,
+      "centroid_lat": 36.328074,
+      "centroid_lon": -83.376704,
+      "county_norm": "grainger"
+    },
+    {
+      "fips": "47079",
+      "county": "Henry County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 1,
+      "centroid_lat": 36.327032,
+      "centroid_lon": -88.320073,
+      "county_norm": "henry"
+    },
+    {
+      "fips": "47145",
+      "county": "Roane County",
+      "state": "Tennessee",
+      "state_abb": "TN",
+      "facility_count": 1,
+      "centroid_lat": 35.929513,
+      "centroid_lon": -84.310567,
+      "county_norm": "roane"
+    },
+    {
+      "fips": "48005",
+      "county": "Angelina County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 31.194176,
+      "centroid_lon": -94.796772,
+      "county_norm": "angelina"
+    },
+    {
+      "fips": "48221",
+      "county": "Hood County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 32.341745,
+      "centroid_lon": -97.731228,
+      "county_norm": "hood"
+    },
+    {
+      "fips": "48325",
+      "county": "Medina County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 29.412977,
+      "centroid_lon": -98.806374,
+      "county_norm": "medina"
+    },
+    {
+      "fips": "48331",
+      "county": "Milam County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 30.573315,
+      "centroid_lon": -97.080185,
+      "county_norm": "milam"
+    },
+    {
+      "fips": "48349",
+      "county": "Navarro County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 31.969859,
+      "centroid_lon": -96.513289,
+      "county_norm": "navarro"
+    },
+    {
+      "fips": "48475",
+      "county": "Ward County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 31.513474,
+      "centroid_lon": -103.448621,
+      "county_norm": "ward"
+    },
+    {
+      "fips": "48485",
+      "county": "Wichita County",
+      "state": "Texas",
+      "state_abb": "TX",
+      "facility_count": 1,
+      "centroid_lat": 33.953378,
+      "centroid_lon": -98.524731,
+      "county_norm": "wichita"
+    },
+    {
+      "fips": "49047",
+      "county": "Uintah County",
+      "state": "Utah",
+      "state_abb": "UT",
+      "facility_count": 1,
+      "centroid_lat": 40.456593,
+      "centroid_lon": -109.528999,
+      "county_norm": "uintah"
+    },
+    {
+      "fips": "49053",
+      "county": "Washington County",
+      "state": "Utah",
+      "state_abb": "UT",
+      "facility_count": 1,
+      "centroid_lat": 37.062799,
+      "centroid_lon": -113.544749,
+      "county_norm": "washington"
+    },
+    {
+      "fips": "51047",
+      "county": "Culpeper County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 1,
+      "centroid_lat": 38.454937,
+      "centroid_lon": -77.978187,
+      "county_norm": "culpeper"
+    },
+    {
+      "fips": "51069",
+      "county": "Frederick County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 1,
+      "centroid_lat": 39.017644,
+      "centroid_lon": -78.29096,
+      "county_norm": "frederick"
+    },
+    {
+      "fips": "51660",
+      "county": "Harrisonburg city",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 1,
+      "centroid_lat": 38.462545,
+      "centroid_lon": -78.856797,
+      "county_norm": "harrisonburg"
+    },
+    {
+      "fips": "51680",
+      "county": "Lynchburg city",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 1,
+      "centroid_lat": 37.415688,
+      "centroid_lon": -79.142706,
+      "county_norm": "lynchburg"
+    },
+    {
+      "fips": "51683",
+      "county": "Manassas city",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 1,
+      "centroid_lat": 38.740436,
+      "centroid_lon": -77.503984,
+      "county_norm": "manassas"
+    },
+    {
+      "fips": "51117",
+      "county": "Mecklenburg County",
+      "state": "Virginia",
+      "state_abb": "VA",
+      "facility_count": 1,
+      "centroid_lat": 36.685374,
+      "centroid_lon": -78.376553,
+      "county_norm": "mecklenburg"
+    },
+    {
+      "fips": "53067",
+      "county": "Thurston County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 1,
+      "centroid_lat": 46.941424,
+      "centroid_lon": -122.625044,
+      "county_norm": "thurston"
+    },
+    {
+      "fips": "53073",
+      "county": "Whatcom County",
+      "state": "Washington",
+      "state_abb": "WA",
+      "facility_count": 1,
+      "centroid_lat": 48.757268,
+      "centroid_lon": -122.480548,
+      "county_norm": "whatcom"
+    },
+    {
+      "fips": "55015",
+      "county": "Calumet County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 44.204455,
+      "centroid_lon": -88.344876,
+      "county_norm": "calumet"
+    },
+    {
+      "fips": "55021",
+      "county": "Columbia County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 43.638333,
+      "centroid_lon": -89.721403,
+      "county_norm": "columbia"
+    },
+    {
+      "fips": "55027",
+      "county": "Dodge County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 43.510374,
+      "centroid_lon": -88.816522,
+      "county_norm": "dodge"
+    },
+    {
+      "fips": "55033",
+      "county": "Dunn County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 44.877165,
+      "centroid_lon": -91.919999,
+      "county_norm": "dunn"
+    },
+    {
+      "fips": "55077",
+      "county": "Marquette County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 43.782184,
+      "centroid_lon": -89.574809,
+      "county_norm": "marquette"
+    },
+    {
+      "fips": "55101",
+      "county": "Racine County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 42.675665,
+      "centroid_lon": -87.918405,
+      "county_norm": "racine"
+    },
+    {
+      "fips": "55127",
+      "county": "Walworth County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 42.833654,
+      "centroid_lon": -88.73398,
+      "county_norm": "walworth"
+    },
+    {
+      "fips": "55133",
+      "county": "Waukesha County",
+      "state": "Wisconsin",
+      "state_abb": "WI",
+      "facility_count": 1,
+      "centroid_lat": 43.051389,
+      "centroid_lon": -88.216665,
+      "county_norm": "waukesha"
+    },
+    {
+      "fips": "54065",
+      "county": "Morgan County",
+      "state": "West Virginia",
+      "state_abb": "WV",
+      "facility_count": 1,
+      "centroid_lat": 39.630985,
+      "centroid_lon": -78.22532,
+      "county_norm": "morgan"
+    },
+    {
+      "fips": "56005",
+      "county": "Campbell County",
+      "state": "Wyoming",
+      "state_abb": "WY",
+      "facility_count": 1,
+      "centroid_lat": 44.189237,
+      "centroid_lon": -105.61048,
+      "county_norm": "campbell"
+    }
+  ]
+}
