@@ -43,14 +43,13 @@ export function ResponsiveAppLayout({
 
   useEffect(() => {
     if (layoutMode !== 'mobile') return
-    setSheetState(panelActive ? 'peek' : 'collapsed')
+    setSheetState('collapsed')
   }, [panelActive, layoutMode])
 
   const handleSheetHandleClick = () => {
     setSheetState((prev) => {
-      if (prev === 'expanded') return 'peek'
-      if (prev === 'peek') return 'collapsed'
-      if (panelActive) return 'peek'
+      if (prev === 'expanded') return 'collapsed'
+      if (panelActive) return 'expanded'
       return 'collapsed'
     })
   }
@@ -76,7 +75,7 @@ export function ResponsiveAppLayout({
     )
   }
 
-  const sheetExpanded = sheetState !== 'collapsed'
+  const sheetExpanded = sheetState === 'expanded'
 
   return (
     <div className={`app app--mobile app--sheet-${sheetState}`}>
@@ -106,8 +105,8 @@ export function ResponsiveAppLayout({
           aria-label={
             sheetState === 'expanded'
               ? 'Collapse officials panel'
-              : sheetState === 'peek'
-                ? 'Hide officials panel and show map'
+              : panelActive
+                ? 'Expand officials panel to full height'
                 : 'Show county officials'
           }
         >
