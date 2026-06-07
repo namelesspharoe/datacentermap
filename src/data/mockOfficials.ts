@@ -8,7 +8,7 @@ export const SEED_OFFICIALS: Official[] = [
   {
     id: 'seed-51107-1',
     countyFips: '51107',
-    name: 'Phyllis J. Randall',
+    name: 'Phyllis J. Bandall',
     position: 'Chair, Board of Supervisors',
     phone: '703-777-0200',
     email: 'chair@loudoun.gov',
