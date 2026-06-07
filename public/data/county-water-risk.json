@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T21:48:24.362Z",
+  "generated_at": "2026-06-07T02:29:27.618Z",
   "indicator": "w_awr_def_tot",
   "indicator_label": "Overall water risk (default weighting)",
   "source_note": "County scores use state-level Aqueduct baseline proxy. Add data/raw/aqueduct_baseline_annual.gpkg and run scripts/build_aqueduct_county_risk.py for sub-basin accuracy.",
